@@ -311,4 +311,45 @@
   .sidebar-nav .nav-link:hover {
     text-decoration: underline; /* Add underline on hover */
   }
+
+  @media only screen and (max-width: 1035px) {
+    #icon a {
+      display: none;
+    }
+    }
+    
+    @media (max-height: 555px){
+      .card{
+        width: 10rem;
+        margin-top: 170px;
+      }
+    }
+    
+    @media only screen and (max-width: 591px) {
+    #loginSection{
+      display: none;
+    }
+    }
+    
+    @media(max-height: 732px) {
+      .wrapper{
+        margin-top: 0;
+      }
+    
+      .card{
+        width: 20rem;
+        margin-top: 100px;
+      }
+    
+      .card:nth-of-type(1) .card-body {
+        margin-top: 50px;
+      }
+      
+    }
+    
+    @media(min-height: 733px){
+      .card{
+        width: 30rem;
+      }
+    }
   
