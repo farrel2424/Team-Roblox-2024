@@ -1,2 +1,9 @@
 # Team-Roblox-2024
-tim roblox solit solit solit
+
+Goal :
+- Finishing SE Assignment
+
+Members :
+- Farrel
+- Azqa
+- Willy
